@@ -1,4 +1,4 @@
-# Connexion entre entre le Thingy:91 et le nRF5340DK pour transmettre les données vers un serveur flask
+# Connexion entre entre le Thingy:91 et le nRF5340DK pour transmettre les données vers un ordinateur
 
 Ce dossier permet de configurer une carte nRF5340DK pour recevoir les données de n'importe quel Thingy:91 et de les transmettre à un ordinateur
 
